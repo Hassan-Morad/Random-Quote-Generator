@@ -1,0 +1,28 @@
+header{
+   background-image: url(../img/Autumn-quote-wallpaper-HD.jpg);
+   background-size: 100% 100%;
+   background-position: center;
+}
+.content h1{
+  font-size: 80px;
+  font-weight: bolder;
+  color:yellow;
+  margin-bottom: 50px;
+}
+.content p{
+   font-size: 35px;
+   color:white;
+   margin-top: 50px;  
+}
+.content button{
+   width: 250px;
+   height: 80px;
+   background-color: rgb(245, 245, 1);
+   color: black;
+   font-weight: bold;
+   margin-top: 40px;
+   transition: backgroubd-color 0.7s;
+}
+.content button:hover{
+   background-color: rgb(255, 196, 3);
+}
