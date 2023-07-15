@@ -33,11 +33,8 @@ function quoteGenerator() {
             <br/> <br/> ― Bernard M. Baruch`
             break;
         case 7:
-            quote.innerHTML=`“You've gotta dance like there's nobody watching,
-            Love like you'll never be hurt,
-            Sing like there's nobody listening,
-            And live like it's heaven on earth.”
-            <br/> <br/> ― William W. Purkey`
+            quote.innerHTML=`“Some people never go crazy. What truly horrible lives they must lead.”
+            <br/> <br/> ― Charles Bukowski`
             break;
         case 8:
             quote.innerHTML=`“You know you're in love when you can't fall asleep because reality is finally better than your dreams.”
